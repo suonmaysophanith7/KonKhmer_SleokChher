@@ -1,7 +1,5 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
+  - KonKhmer_SleokChher.glyphs
+  axisOrder:
   - wght
-  - ital
-familyName: Rubik
+  familyName: KonKhmer_SleokChher
