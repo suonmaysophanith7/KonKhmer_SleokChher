@@ -1,4 +1,13 @@
 ----
+# About
+
+KonKhmer_SleokChher is a revised design of "KonKhmer_SleokChher" which is one of Suon May Sophanith's typefaces designed and published back in 2015. 
+KonKhmer_SleokChher is a modern display Khmer typeface based on the writing style of a brush used on a wall. It has an edgy style, a medium size and is suitable for headings and large typography. In this new version, Gemunu Libre's Latin is used as the Latin counterpart in the project.
+
+KonKhmer_SleokChher is designed by Suon May Sophanith, a Graphic Design and typeface design, an design studio specializes in identity design and typeface design, based in Phnom Penh, Cambodia. Sophanith has started designing type in 2013 as til now.
+
+
+KonKhmer_SleokChher is designed by Suon May Sophanith.
 
 ## Setting up your font
 
