@@ -71,7 +71,8 @@ value = 0;
 }
 );
 date = "2017-03-21 06:32:22 +0000";
-familyName = Rubik;
+familyName = 
+;
 featurePrefixes = (
 {
 automatic = 1;
@@ -87273,7 +87274,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)";
+value = "Copyright 2015 The KonKhmer_SleokChher Project Authors (https://github.com/googlefonts/KonKhmer_SleokChher)";
 }
 );
 },
@@ -87282,13 +87283,13 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Hubert and Fischer";
+value = "Suon May Sophanith";
 }
 );
 },
 {
 key = designerURL;
-value = "http://www.hubertfischer.com";
+value = "http://suonmaysophanith.com";
 },
 {
 key = manufacturers;
