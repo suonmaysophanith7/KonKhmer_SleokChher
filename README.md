@@ -13,7 +13,6 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FKonKhmer_SleokChher%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FKonKhmer_SleokChher%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Don't hesitate to create images!
 
 ![Sample Image](documentation/image1.png)
 
